@@ -3,7 +3,7 @@ This repository contains my solutions to computational activities for the UNICAM
 lectured by Dr. Boccato and Dr. Attux.
 
 ## Exercise List 1:
-Time Series prediction using ALMA Sunspot database| [exercises statement (pt-br)](EFC1/EFC1_IA006_1s2019.pdf).
+Time Series prediction using ALMA Sunspot database | [exercises statement (pt-br)](EFC1/EFC1_IA006_1s2019.pdf).
 
 ## Exercise List 2:
 Binary and Multi-class classification | [exercises statement (pt-br)](EFC2/EFC2_IA006_1s2019.pdf).
