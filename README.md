@@ -1,5 +1,5 @@
 # IA006 - Introduction to Machine Learning
-This repository contains my solutions to computational activities for the UNICAMP's course IA006 (2019.1) - Introduction to Machine Learning, 
+This repository contains my solutions to computational activities for the UNICAMP's course [IA006](http://www.dca.fee.unicamp.br/~lboccato/ia006_1s2019.html) (2019.1) - Introduction to Machine Learning, 
 lectured by Dr. Boccato and Dr. Attux.
 
 ## Exercise List 1:
